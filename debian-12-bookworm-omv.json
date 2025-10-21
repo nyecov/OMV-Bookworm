@@ -13,9 +13,7 @@
       {
         "file_name": "Armbian_25.8.2_Uefi-arm64_bookworm_current_6.12.48-omv_minimal.img",
         "size": 946995200,
-        "urls": "https://github.com/nyecov/OMV-Bookworm/releases/download/v1.0/Armbian_25.8.2_Uefi-arm64_bookworm_current_6.12.48-omv_minimal.img.xz",
-        "md5": "bb9dd734ba0aef405502028cc15dbad4",
-		"sig": "iHUEABYKAB0WIQQkjRuK3Vy9QGp/WoGfxlbs3MXoqAUCaPflYgAKCRCfxlbs3MXoqJ8VAQDpu++Bg/MVvz9k5OYDzopYE8Cuj7U6ZWX4NlBlL2zz0gEA0KKoBKwA8p8Kw3dziDC6dzfFZXNzshMKDsq9OurX0wE==4CVm"
+        "urls": "https://netcup-03.armbian.com/dl/rock-5-itx/archive/Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_cinnamon-backported-mesa_desktop.img.xz",
       }
     ],
     "require": [
