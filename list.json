@@ -1,0 +1,7 @@
+[
+  {
+    "uuid": "1c46c9de51be460e8f73234e6605b534",
+	"name": "Armbian 25.8.2 Bookworm 6.12.46- OMV",
+    "url": "https://raw.githubusercontent.com/nyecov/roobi-armbian-sources/refs/heads/main/debian-12-bookworm-omv.json"
+  }
+]
