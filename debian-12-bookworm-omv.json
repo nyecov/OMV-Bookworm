@@ -1,21 +1,20 @@
 {
     "script_version": "1",
     "uuid": "b6fdad13-ec40-40dd-9f24-7dfd4d2e1742",
-    "name": "Armbian 25.2.2",
+    "name": "Armbian Linux v6.12 with OMV",
     "img": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linux.png",
     "description": {
-      "en": "Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal",
-      "zh-CN": "Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal"
+      "en": "Armbian Linux v6.12 with OMV",
     },
-    "version": "25.2.2",
+    "version": "Armbian Linux v6.12",
     "author": "official",
     "date": "2025.09.23",
     "download": [
       {
-        "file_name": "Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal.img.xz",
-        "size": 278117360,
-        "urls":"https://netcup-03.armbian.com/dl/rock-5-itx/archive/Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal.img.xz",
-        "md5": "C81770C626530FE6B5D8D565AF52042A",
+        "file_name": "Armbian_25.8.2_Uefi-arm64_bookworm_current_6.12.48-omv_minimal.img",
+        "size": 945808268,
+        "urls":"https://github.com/nyecov/OMV-Bookworm/releases/download/v1.0/Armbian_25.8.2_Uefi-arm64_bookworm_current_6.12.48-omv_minimal.img.xz",
+        "md5": "BB9DD734BA0AEF405502028CC15DBAD4",
 		"sig": ""
       }
     ],
@@ -32,7 +31,7 @@
       {
         "type": "auto",
         "text": "start",
-        "size": 1484783616
+        "size": 4945084416
       }
     ]
   }
