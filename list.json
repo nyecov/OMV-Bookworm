@@ -1,7 +1,7 @@
 [
   {
     "uuid": "b6fdad13-ec40-40dd-9f24-7dfd4d2e1742",
-	"name": "Armbian 25.8.2 Bookworm 6.12.46- OMV",
+    "name": "Armbian Linux v6.12 with OMV",
     "url": "https://raw.githubusercontent.com/nyecov/OMV-Bookworm/refs/heads/main/debian-12-bookworm-omv.json"
   }
 ]
