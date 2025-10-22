@@ -1,19 +1,22 @@
 {
     "script_version": "1",
-    "uuid": "1c46c9de51be460e8f73234e6605b534",
+    "uuid": "b6fdad13-ec40-40dd-9f24-7dfd4d2e1742",
     "name": "Armbian 25.2.2",
     "img": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linux.png",
     "description": {
-      "en": "Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal"
+      "en": "Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal",
+      "zh-CN": "Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal"
     },
     "version": "25.2.2",
     "author": "official",
     "date": "2025.09.23",
     "download": [
       {
-        "file_name": "Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal",
+        "file_name": "Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal.img.xz",
         "size": 278117360,
-        "urls": "https://netcup-03.armbian.com/dl/rock-5-itx/archive/Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal.img.xz",
+        "urls": [
+          "https://netcup-03.armbian.com/dl/rock-5-itx/archive/Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal.img.xz"
+        ],
         "md5": "54B901A3F3F946EF6F02CB01E739C79E",
 		"sig": "iQIzBAABCgAdFiEE3wD68cV3EEtQvx0Ak9aIn58OeNUFAme4HE8ACgkQk9aIn58OeNUogBAAnGxGDHn0SP3hE5qGU8ZRMlD/2/+G7l9nZrIX84P3oIXsQmViqyBvnTv6SfPew6xpn1/wqNNZFkCftrsdAL46nERa4EgCGf/Vib7cYlaROAOv61VTs9uoorBL0yNj/KD2TJkEpY0o+KocAhIN+aPPLvColkvQ64yqnXuyrxwV3cyeCe0+SbTbD0JDdJ/PQVPvezC67BjuVGy9uHhYXB0xPoOusEhtQo93hKIFtxx8XDTX9KidRsfuMstbln7imnhJQ6VOkJIOUv72c0Dk/n6uBK+vMfaO6sJ7UeKMnL0cqALX710JF2SlJWM6bYRam9NQ1I7K5FN1dSG4wD6mFcsKP0DNHHWVTeUEoCRJhbw6+uZKK7GkQ4ohSZqtsjXciD7PUhvL8PqJuKhtgSoIDfLrwOUGAsA8xDF3340Fr+hPvsQl7hSCmfBBe48QVX54+YVVeibzi1S/0g9W25uolRC1JUJlIS1RbKUeNPpqnodAQERlfbNQOk2qr4QGO/sqEj9JNxP3bCcTGt7W0tnlFJHwF/oBvtLtjEGFr9doQql/cnpN4qXVVfhCZ4oDqFPgqr5pUHBCGVkqfMnp544bnYo+nly5QJLLHz/h1gaEN1GWosaWFm7L+Wasc0P5nrm5/KibO49jAocuyR9xhOe39IY3waaB17StujHMuZuVW2h9NUo==sm9c"
       }
