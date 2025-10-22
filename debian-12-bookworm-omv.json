@@ -11,7 +11,7 @@
     "date": "2025.09.23",
     "download": [
       {
-        "file_name": "Armbian_25.8.2_Uefi-arm64_bookworm_current_6.12.48-omv_minimal.img",
+        "file_name": "Armbian_25.8.2_Uefi-arm64_bookworm_current_6.12.48-omv_minimal.img.xz",
         "size": 945808268,
         "urls":"https://github.com/nyecov/OMV-Bookworm/releases/download/v1.0/Armbian_25.8.2_Uefi-arm64_bookworm_current_6.12.48-omv_minimal.img.xz",
         "md5": "BB9DD734BA0AEF405502028CC15DBAD4",
