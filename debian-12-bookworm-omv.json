@@ -14,10 +14,9 @@
       {
         "file_name": "Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal.img.xz",
         "size": 278117360,
-        "urls": [
-          "https://netcup-03.armbian.com/dl/rock-5-itx/archive/Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal.img.xz"
-        ],
-        "md5": "54B901A3F3F946EF6F02CB01E739C79E"
+        "urls":"https://netcup-03.armbian.com/dl/rock-5-itx/archive/Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal.img.xz",
+        "md5": "54B901A3F3F946EF6F02CB01E739C79E",
+		"sig": ""
       }
     ],
     "require": [
