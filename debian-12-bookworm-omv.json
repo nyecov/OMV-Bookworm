@@ -1,17 +1,17 @@
 {
     "script_version": "1",
     "uuid": "1c46c9de51be460e8f73234e6605b534",
-    "name": "Armbian 25.8.2 Bookworm 6.12.46- OMV",
-    "img": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openmediavault.png",
+    "name": "Armbian 25.2.2",
+    "img": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linux.png",
     "description": {
-      "en": "penMediaVault (OMV) is a free, open-source network-attached storage (NAS) solution built on Debian Linux. It's designed for home users and small offices, providing a user-friendly web interface to manage file storage, sharing, and other services. OMV allows users to share files across a network using protocols like SMB/CIFS, FTP, and NFS, and it can be extended with plugins for added functionality."
+      "en": "Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal"
     },
-    "version": "25.8.2-arm64",
+    "version": "25.2.2",
     "author": "official",
     "date": "2025.09.23",
     "download": [
       {
-        "file_name": "Armbian_25.8.2_Uefi-arm64_bookworm_current_6.12.48-omv_minimal.img",
+        "file_name": "Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal",
         "size": 278117360,
         "urls": "https://netcup-03.armbian.com/dl/rock-5-itx/archive/Armbian_25.2.2_Rock-5-itx_bookworm_current_6.12.15_minimal.img.xz",
         "md5": "54B901A3F3F946EF6F02CB01E739C79E",
@@ -31,7 +31,7 @@
       {
         "type": "auto",
         "text": "start",
-        "size": 278117360
+        "size": 1484783616
       }
     ]
   }
