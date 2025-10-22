@@ -4,7 +4,7 @@
     "name": "Armbian Linux v6.12 with OMV",
     "img": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linux.png",
     "description": {
-      "en": "Armbian Linux v6.12 with OMV",
+      "en": "Armbian Linux v6.12 with OMV"
     },
     "version": "Armbian Linux v6.12",
     "author": "official",
